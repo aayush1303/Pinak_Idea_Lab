@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pinak_Idea_Lab/static/css/main.5a90499b.css",
+    "main.js": "/Pinak_Idea_Lab/static/js/main.75cbce3e.js",
+    "index.html": "/Pinak_Idea_Lab/index.html",
+    "main.5a90499b.css.map": "/Pinak_Idea_Lab/static/css/main.5a90499b.css.map",
+    "main.75cbce3e.js.map": "/Pinak_Idea_Lab/static/js/main.75cbce3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a90499b.css",
+    "static/js/main.75cbce3e.js"
+  ]
+}
