@@ -25,9 +25,9 @@ code {
 }
 .card-container::before {
   top: -50px;
-  left: 75px;
-  width: 90px;
-  height: 95px;
+  left: 79px;
+  width: 82px;
+  height: 91px;
   border-radius: 50%;
   box-shadow: 0 0 0 9999px #fff; /* Large shadow */
   content: '';

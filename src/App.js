@@ -22,8 +22,8 @@ function App() {
         <div className="flex flex-wrap justify-center gap-10">
 
           {/* Card 1 */}
-          <div className='flex justify-center mb-2'>
-            <div className="w-20 h-20 mt-[-40px] absolute rounded-full bg-purple-100 flex items-center justify-center shadow-md">
+          <div className='flex justify-center mb-2 h-[280px]'>
+            <div className="w-20 h-20 mt-[-40px] border-[4px] border-[#33006F] absolute rounded-full  bg-purple-100 flex items-center justify-center shadow-md">
               <FaTools className="text-4xl text-purple-700" />
             </div>
             <div
@@ -43,8 +43,8 @@ function App() {
           </div>
 
           {/* Card 2 */}
-          <div className='flex justify-center mb-2'>
-            <div className="w-20 h-20 mt-[-40px] absolute rounded-full bg-purple-100 flex items-center justify-center shadow-md">
+          <div className='flex justify-center mb-2 h-[280px]'>
+            <div className="w-20 h-20 mt-[-40px] border-[4px] border-[#33006F] absolute rounded-full bg-purple-100 flex items-center justify-center shadow-md">
               <FaTint className="text-4xl text-purple-700" />
             </div>
             <div
@@ -64,8 +64,8 @@ function App() {
           </div>
 
           {/* Card 3 */}
-          <div className='flex justify-center'>
-            <div className="w-20 h-20 mt-[-40px] absolute rounded-full bg-purple-100 flex items-center justify-center shadow-md">
+          <div className='flex justify-center h-[280px]'>
+            <div className="w-20 h-20 mt-[-40px] border-[4px] border-[#33006F] absolute rounded-full bg-purple-100 flex items-center justify-center shadow-md">
               <FaWater className="text-4xl text-purple-700" />
             </div>
             <div
@@ -85,8 +85,8 @@ function App() {
           </div>
 
           {/* Card 4 */}
-          <div className='flex justify-center'>
-            <div className="w-20 h-20 mt-[-40px] absolute rounded-full bg-purple-100 flex items-center justify-center shadow-md">
+          <div className='flex justify-center h-[280px]'>
+            <div className="w-20 h-20 mt-[-40px] border-[4px] border-[#33006F] absolute rounded-full bg-purple-100 flex items-center justify-center shadow-md">
               <FaHotTub className="text-4xl text-purple-700" />
             </div>
             <div
