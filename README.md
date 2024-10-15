@@ -2,15 +2,18 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and is designed to meet the requirements of an evaluation assignment.
 
-## Assignment Overview
+# Pinak Idea Lab Private Limited
 
-Thank you for taking the time to read the evaluation assignment. The goal is to create a responsive layout that closely resembles the provided design, using the following specifications:
+This project showcases a web assignment that fulfills the specified requirements:
 
-1. All your code should be inside a div with the ID “assignment”.
-2. Use **Tailwind CSS** for styling.
-3. Include **icons** in your design. Assignments without icons will not be evaluated.
-4. Implement a rotation effect: When the mouse hovers over the box below the icon, the box should rotate 360 degrees. For animations, use a simple JavaScript animation library (GSAP is recommended).
-5. After completing the assignment, please host it on **GitHub Pages** (https://pages.github.com/) and share the publicly accessible URL.
+1. All code is contained within a div with the ID **“assignment.”**
+2. **Tailwind CSS** is used for styling, ensuring a modern and responsive design.
+3. Icons are included in the design, as required.
+4. A rotation effect is implemented using **GSAP**. When the mouse hovers over the box below the icon, it smoothly rotates 360 degrees.
+
+You can view the completed assignment hosted on GitHub Pages at: [https://aayush1303.github.io/Pinak_Idea_Lab/](https://aayush1303.github.io/Pinak_Idea_Lab/)
+
+Thank you for reviewing this project!
 
 ## Available Scripts
 
