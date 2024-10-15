@@ -1,3 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "animate.css";
+
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -10,4 +17,25 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.diagonal-split-background{
+  background-color: #013A6B;
+  background-image: -webkit-linear-gradient(-67deg, #33006F 50%, #E6E6FA 50%);
+}
+.card-container::before {
+  top: -50px;
+  left: 75px;
+  width: 90px;
+  height: 95px;
+  border-radius: 50%;
+  box-shadow: 0 0 0 9999px #fff; /* Large shadow */
+  content: '';
+  position: absolute;
+  z-index: -1;
+}
+
+.rotate {
+  transition: transform 1s;
+  transform: rotate(360deg);
 }
