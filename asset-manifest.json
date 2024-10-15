@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Pinak_Idea_Lab/static/css/main.5a90499b.css",
-    "main.js": "/Pinak_Idea_Lab/static/js/main.75cbce3e.js",
+    "main.css": "/Pinak_Idea_Lab/static/css/main.4ee5d8d1.css",
+    "main.js": "/Pinak_Idea_Lab/static/js/main.651efcd8.js",
     "index.html": "/Pinak_Idea_Lab/index.html",
-    "main.5a90499b.css.map": "/Pinak_Idea_Lab/static/css/main.5a90499b.css.map",
-    "main.75cbce3e.js.map": "/Pinak_Idea_Lab/static/js/main.75cbce3e.js.map"
+    "main.4ee5d8d1.css.map": "/Pinak_Idea_Lab/static/css/main.4ee5d8d1.css.map",
+    "main.651efcd8.js.map": "/Pinak_Idea_Lab/static/js/main.651efcd8.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a90499b.css",
-    "static/js/main.75cbce3e.js"
+    "static/css/main.4ee5d8d1.css",
+    "static/js/main.651efcd8.js"
   ]
 }
